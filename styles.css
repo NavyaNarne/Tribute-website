@@ -1,0 +1,39 @@
+#image {
+    width: 40%;
+  }
+  #title-p {
+    position: relative;
+    bottom: 50px;
+  }
+  #main {
+    background-color: #fff3cd;
+    text-align: center;
+  }
+  #img-div {
+    background-color: #ffc38b;
+    text-align: center;
+    padding: 20px;
+    margin: 0 10px;
+  }
+  body {
+    background-color: #fff3cd;
+  }
+  h1{
+    font-size: 5rem;
+    color: #4d3e3e;
+    font-family: 'Anton', sans-serif;
+  }
+  p {
+    font-family: 'Libre Baskerville', serif;
+  }
+  h2 {
+    font-size: 1.5rem;
+  }
+  ul {
+    padding: 0 15%; 
+    text-align: left;
+  }
+  
+  li {
+    padding-bottom: 10px;
+  }
